@@ -1,0 +1,38 @@
+
+/*表格样式*/
+.tb-list{
+    background: #ccc;
+    margin:50px auto;
+}
+
+caption{
+    margin-bottom: 10px;
+}
+
+.tb-list tr{
+    background: #fff;
+    padding: 10px;
+}
+
+input[type='submit']{
+    margin: 10px;
+    display: block;
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    width: 152px;
+    height: 40px;
+    line-height: 40px;
+    border:none;
+    outline: none;
+    background: url(../images/bg_v3.png) no-repeat left -565px;
+    cursor: pointer;
+}
+
+
+input[type='text']{
+    width: 200px;
+    height: 26px;
+    font-size: 16px;
+} 
+
